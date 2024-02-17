@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm software engineer from Ukraine 🇺🇦!
+
+Curently I'm living and working on Cyprus 🇨🇾
+
+Most of the time i've spent writing code for Android 🤖 appliction, but I have a few pet-project where I'm using Python 🐍.
+
+:point_down: Here is my Leetcode profile result:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EgorSalenko)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **EgorSalenko/EgorSalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
