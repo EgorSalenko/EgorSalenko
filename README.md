@@ -2,12 +2,9 @@
 
 I'm software engineer from Ukraine 🇺🇦!
 
-:point_down: Here is my Leetcode profile result:
+![Leetcode Stats](https://leetcard.jacoblin.cool/EgorSalenko?border=0&radius=20&ext=activity)
 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EgorSalenko)](https://github.com/KnlnKS/leetcode-stats)
-<!--
-**EgorSalenko/EgorSalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**EgorSalenko/EgorSalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
